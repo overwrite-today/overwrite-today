@@ -19,6 +19,7 @@ captures/
 
 # 개별 파일 형식
 *.iml
+misc.xml
 
 # 로컬 설정
 local.properties
