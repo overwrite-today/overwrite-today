@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ========================================
+         원고지 (Manuscript) 크기
+         ======================================== -->
+
+    <!-- 원고지 한 셀의 크기 -->
+    <dimen name="manuscript_cell_size">32dp</dimen>
+
+    <!-- 원고지 그리드 라인 두께 -->
+    <dimen name="manuscript_grid_line_width">1dp</dimen>
+
+    <!-- 원고지 패딩 -->
+    <dimen name="manuscript_padding">24dp</dimen>
+
+    <!-- 원고지 모서리 둥글기 -->
+    <dimen name="manuscript_corner_radius">8dp</dimen>
+
+
+    <!-- ========================================
+         폴라로이드 카드
+         ======================================== -->
+
+    <!-- 폴라로이드 카드 너비 -->
+    <dimen name="polaroid_card_width">280dp</dimen>
+
+    <!-- 폴라로이드 카드 높이 -->
+    <dimen name="polaroid_card_height">320dp</dimen>
+
+    <!-- 폴라로이드 이미지 영역 높이 -->
+    <dimen name="polaroid_image_height">240dp</dimen>
+
+    <!-- 폴라로이드 텍스트 영역 높이 -->
+    <dimen name="polaroid_text_height">80dp</dimen>
+
+    <!-- 폴라로이드 패딩 -->
+    <dimen name="polaroid_padding">16dp</dimen>
+
+    <!-- 폴라로이드 그림자 -->
+    <dimen name="polaroid_elevation">4dp</dimen>
+
+
+    <!-- ========================================
+         재생 컨트롤
+         ======================================== -->
+
+    <!-- 재생 버튼 크기 -->
+    <dimen name="playback_button_size">48dp</dimen>
+
+    <!-- 재생 컨트롤 바 높이 -->
+    <dimen name="playback_control_height">64dp</dimen>
+
+    <!-- 재생 속도 버튼 크기 -->
+    <dimen name="playback_speed_button_size">40dp</dimen>
+
+
+    <!-- ========================================
+         타임라인
+         ======================================== -->
+
+    <!-- 월별 타임라인 항목 높이 -->
+    <dimen name="timeline_item_height">80dp</dimen>
+
+    <!-- 타임라인 발자국 크기 -->
+    <dimen name="timeline_footprint_size">32dp</dimen>
+
+    <!-- 타임라인 간격 -->
+    <dimen name="timeline_spacing">16dp</dimen>
+
+
+    <!-- ========================================
+         간격 시스템 (4dp 기반)
+         ======================================== -->
+
+    <dimen name="spacing_extra_small">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium_small">12dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_medium_large">20dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_extra_large">32dp</dimen>
+    <dimen name="spacing_huge">48dp</dimen>
+    <dimen name="spacing_massive">64dp</dimen>
+
+    <!-- 특정 용도별 간격 -->
+    <dimen name="screen_padding">20dp</dimen>
+    <dimen name="card_spacing">16dp</dimen>
+    <dimen name="section_spacing">32dp</dimen>
+    <dimen name="item_spacing">12dp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="small_button_padding">12dp</dimen>
+    <dimen name="text_field_padding">16dp</dimen>
+</resources>
