@@ -64,7 +64,7 @@ val OverwriteBlue = Color(0xFF457B9D)
 // ========================================
 
 /** 폴라로이드 카드 배경 */
-val PolaroidWhite = Color(0xFFFFFEFC)
+val PolaroidBrown = Color(0xFFEDEAE1)
 
 /** 폴라로이드 그림자 */
 val PolaroidShadow = Color(0x20000000)
